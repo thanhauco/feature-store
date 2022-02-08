@@ -1,0 +1,3 @@
+features:
+  - name: user_clicks
+    type: int
