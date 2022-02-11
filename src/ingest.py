@@ -1,0 +1,2 @@
+def ingest(data):
+    pass
