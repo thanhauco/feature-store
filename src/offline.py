@@ -1,1 +1,2 @@
-def get_batch(): pass
+def get_at_timestamp(ts):
+    pass
