@@ -1,2 +1,3 @@
-import redis
-r = redis.Redis()
+class RedisStore:
+    def __init__(self):
+        pass
