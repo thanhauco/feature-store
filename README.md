@@ -1,2 +1,8 @@
 # Feature Store
-Serve ML features.
+
+## Phase 2 Features
+- Kafka Stream Ingestion
+- Registry UI
+- Great Expectations
+- Python SDK
+- Time Travel
