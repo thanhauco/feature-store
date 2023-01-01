@@ -1,3 +1,1 @@
-from kafka import KafkaConsumer
-def consume():
-    consumer = KafkaConsumer('features')
+consumer = KafkaConsumer(auto_commit_interval_ms=1000)
