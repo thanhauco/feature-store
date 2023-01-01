@@ -1,3 +1,1 @@
-class RedisStore:
-    def __init__(self):
-        pass
+r = redis.Redis(socket_keepalive=True)
