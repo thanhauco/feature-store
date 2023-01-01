@@ -1,6 +1,1 @@
-redis
-grpcio
-protobuf
-kafka-python
-flask
-great_expectations
+protobuf>=3.20

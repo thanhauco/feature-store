@@ -1,6 +1,1 @@
-syntax = "proto3";
-service FeatureStore {
-  rpc GetFeature (FeatureRequest) returns (FeatureResponse) {}
-}
-message FeatureRequest { string name = 1; }
-message FeatureResponse { string value = 1; }
+syntax = "proto3"; // updated
